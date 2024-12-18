@@ -1,0 +1,10 @@
+config:
+  api_version: "v1"
+  base_url: "https://api.firecrawl.dev"
+  headers:
+    content_type: "application/json"
+  endpoints:
+    crawl_endpoint: "crawl"
+    scrape_endpoint: "scrape"
+    map_endpoint: "map"
+    batch_scrape_endpoint: "batch/scrape"

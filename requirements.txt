@@ -1,0 +1,8 @@
+# Core dependencies
+requests
+PyYAML
+
+# Optional dependencies
+python-dotenv
+
+# Additional dependencies may be added as needed
